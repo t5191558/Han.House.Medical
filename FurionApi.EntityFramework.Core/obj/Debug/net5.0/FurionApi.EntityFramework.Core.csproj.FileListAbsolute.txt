@@ -1,0 +1,16 @@
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\bin\Debug\net5.0\FurionApi.EntityFramework.Core.deps.json
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\bin\Debug\net5.0\FurionApi.EntityFramework.Core.dll
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\bin\Debug\net5.0\ref\FurionApi.EntityFramework.Core.dll
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\bin\Debug\net5.0\FurionApi.EntityFramework.Core.pdb
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\bin\Debug\net5.0\FurionApi.Core.dll
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\bin\Debug\net5.0\FurionApi.Core.pdb
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\bin\Debug\net5.0\FurionApi.Core.xml
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\obj\Debug\net5.0\FurionApi.EntityFramework.Core.csproj.AssemblyReference.cache
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\obj\Debug\net5.0\FurionApi.EntityFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\obj\Debug\net5.0\FurionApi.EntityFramework.Core.AssemblyInfoInputs.cache
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\obj\Debug\net5.0\FurionApi.EntityFramework.Core.AssemblyInfo.cs
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\obj\Debug\net5.0\FurionApi.EntityFramework.Core.csproj.CoreCompileInputs.cache
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\obj\Debug\net5.0\FurionApi.EntityFramework.Core.csproj.CopyComplete
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\obj\Debug\net5.0\FurionApi.EntityFramework.Core.dll
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\obj\Debug\net5.0\ref\FurionApi.EntityFramework.Core.dll
+E:\代码\私活\Han.House.Medical\FurionApi.EntityFramework.Core\obj\Debug\net5.0\FurionApi.EntityFramework.Core.pdb

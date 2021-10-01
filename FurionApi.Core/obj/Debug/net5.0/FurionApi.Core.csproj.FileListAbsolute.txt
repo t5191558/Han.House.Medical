@@ -1,0 +1,13 @@
+E:\代码\私活\Han.House.Medical\FurionApi.Core\bin\Debug\net5.0\FurionApi.Core.deps.json
+E:\代码\私活\Han.House.Medical\FurionApi.Core\bin\Debug\net5.0\FurionApi.Core.dll
+E:\代码\私活\Han.House.Medical\FurionApi.Core\bin\Debug\net5.0\ref\FurionApi.Core.dll
+E:\代码\私活\Han.House.Medical\FurionApi.Core\bin\Debug\net5.0\FurionApi.Core.pdb
+E:\代码\私活\Han.House.Medical\FurionApi.Core\bin\Debug\net5.0\FurionApi.Core.xml
+E:\代码\私活\Han.House.Medical\FurionApi.Core\obj\Debug\net5.0\FurionApi.Core.csproj.AssemblyReference.cache
+E:\代码\私活\Han.House.Medical\FurionApi.Core\obj\Debug\net5.0\FurionApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\代码\私活\Han.House.Medical\FurionApi.Core\obj\Debug\net5.0\FurionApi.Core.AssemblyInfoInputs.cache
+E:\代码\私活\Han.House.Medical\FurionApi.Core\obj\Debug\net5.0\FurionApi.Core.AssemblyInfo.cs
+E:\代码\私活\Han.House.Medical\FurionApi.Core\obj\Debug\net5.0\FurionApi.Core.csproj.CoreCompileInputs.cache
+E:\代码\私活\Han.House.Medical\FurionApi.Core\obj\Debug\net5.0\FurionApi.Core.dll
+E:\代码\私活\Han.House.Medical\FurionApi.Core\obj\Debug\net5.0\ref\FurionApi.Core.dll
+E:\代码\私活\Han.House.Medical\FurionApi.Core\obj\Debug\net5.0\FurionApi.Core.pdb
